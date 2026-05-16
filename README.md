@@ -5,7 +5,7 @@ This is a .md (Markdown) file which is generally use for to write details about 
 
 # Steps to create this Data-warehouse
 ### Step1: 
-Check the init_database.sql file where script is given to create Database and Schema for all three layer bronze, silver and gold.
+       Check the init_database.sql file where script is given to create Database and Schema for all three layer bronze, silver and gold.
 ### Step2: 
        Check the bronze folder where DDL command is given to create all six bronze layer table and In the second file script present to 
        load data from csv file to bronze tables.
