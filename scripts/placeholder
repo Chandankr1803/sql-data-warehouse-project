@@ -4,4 +4,4 @@ Step2: Check the bronze folder where DDL command is given to create all six bron
        load data from csv file to bronze tables.
 Step3: Check the silver folder where DDL command is given to create all six silver layer tables and In the second file script present that
        clean and transform data and load into silver layer tables.
-Step4: Check the gold folder where 
+Step4: Check the gold folder where view created and store depending upon business logic and joined tables.
